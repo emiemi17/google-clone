@@ -1,5 +1,9 @@
 # Google Homepage Clone
 
+## Acesse meu site
+
+Você pode visualizar meu projeto aqui: [Meu Google Clone](https://emiemi17.github.io/google-clone/index.html)
+
 ## Description
 A simple clone of Google's homepage created using HTML5 and CSS3. This project was developed to practice front-end skills, focusing on layout design and styling.
 
